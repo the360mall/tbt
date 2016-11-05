@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/the360mall/tbt/issues"
   },
-  "homepage": "https://github.com/the360mall/tbt#readme"
+  "homepage": "https://github.com/the360mall/tbt#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
 }
